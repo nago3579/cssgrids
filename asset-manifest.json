@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/http//nago3579.github.io/cssgrids/static/css/main.1a25d9ae.chunk.css",
-    "main.js": "/http//nago3579.github.io/cssgrids/static/js/main.a985f053.chunk.js",
-    "main.js.map": "/http//nago3579.github.io/cssgrids/static/js/main.a985f053.chunk.js.map",
-    "runtime-main.js": "/http//nago3579.github.io/cssgrids/static/js/runtime-main.d8f22a1d.js",
-    "runtime-main.js.map": "/http//nago3579.github.io/cssgrids/static/js/runtime-main.d8f22a1d.js.map",
-    "static/js/2.4695543d.chunk.js": "/http//nago3579.github.io/cssgrids/static/js/2.4695543d.chunk.js",
-    "static/js/2.4695543d.chunk.js.map": "/http//nago3579.github.io/cssgrids/static/js/2.4695543d.chunk.js.map",
-    "index.html": "/http//nago3579.github.io/cssgrids/index.html",
-    "precache-manifest.aa2ccbafc6cbac8e44eea3d205db1000.js": "/http//nago3579.github.io/cssgrids/precache-manifest.aa2ccbafc6cbac8e44eea3d205db1000.js",
-    "service-worker.js": "/http//nago3579.github.io/cssgrids/service-worker.js",
-    "static/css/main.1a25d9ae.chunk.css.map": "/http//nago3579.github.io/cssgrids/static/css/main.1a25d9ae.chunk.css.map",
-    "static/js/2.4695543d.chunk.js.LICENSE.txt": "/http//nago3579.github.io/cssgrids/static/js/2.4695543d.chunk.js.LICENSE.txt"
+    "main.css": "/cssgrids/static/css/main.1a25d9ae.chunk.css",
+    "main.js": "/cssgrids/static/js/main.6882dc8c.chunk.js",
+    "main.js.map": "/cssgrids/static/js/main.6882dc8c.chunk.js.map",
+    "runtime-main.js": "/cssgrids/static/js/runtime-main.f01fa966.js",
+    "runtime-main.js.map": "/cssgrids/static/js/runtime-main.f01fa966.js.map",
+    "static/js/2.4695543d.chunk.js": "/cssgrids/static/js/2.4695543d.chunk.js",
+    "static/js/2.4695543d.chunk.js.map": "/cssgrids/static/js/2.4695543d.chunk.js.map",
+    "index.html": "/cssgrids/index.html",
+    "precache-manifest.fb86d855ba2e00c1cffed753479b05c6.js": "/cssgrids/precache-manifest.fb86d855ba2e00c1cffed753479b05c6.js",
+    "service-worker.js": "/cssgrids/service-worker.js",
+    "static/css/main.1a25d9ae.chunk.css.map": "/cssgrids/static/css/main.1a25d9ae.chunk.css.map",
+    "static/js/2.4695543d.chunk.js.LICENSE.txt": "/cssgrids/static/js/2.4695543d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8f22a1d.js",
+    "static/js/runtime-main.f01fa966.js",
     "static/js/2.4695543d.chunk.js",
     "static/css/main.1a25d9ae.chunk.css",
-    "static/js/main.a985f053.chunk.js"
+    "static/js/main.6882dc8c.chunk.js"
   ]
 }
