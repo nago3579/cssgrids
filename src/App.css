@@ -1,0 +1,222 @@
+.App {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+#table {
+  display: grid;
+  grid-template-columns: repeat(7,auto) 1fr;
+  width: 90%;
+  max-width: 100%;
+}
+
+.sidebar1 {
+  grid-column-start: 1;
+  grid-row-start: 1;
+  height: 10vh;
+  width: 10vh;
+  background-color: #444444;
+  text-align: center;
+  justify-content: flex-start;
+  align-items: flex-start;
+  color: white;
+  font-size: 13px;
+}
+.sidebar2 {
+  grid-column-start: 1;
+  grid-row-start: 2;
+  height: 10vh;
+  width: 10vh;
+  background-color: #444444;
+  text-align: center;
+  justify-content: flex-start;
+  align-items: flex-start;
+  color: white;
+  font-size: 13px;
+}
+.sidebar3 {
+  grid-column-start: 1;
+  grid-row-start: 3;
+  height: 10vh;
+  width: 10vh;
+  background-color: #444444;
+  text-align: center;
+  justify-content: flex-start;
+  align-items: flex-start;
+  color: white;
+  font-size: 13px;
+}
+.sidebar4 {
+  grid-column-start: 1;
+  grid-row-start: 4;
+  height: 10vh;
+  width: 10vh;
+  background-color: #444444;
+  text-align: center;
+  justify-content: flex-start;
+  align-items: flex-start;
+  color: white;
+  font-size: 13px;
+}
+.sidebar5 {
+  grid-column-start: 1;
+  grid-row-start: 5;
+  height: 10vh;
+  width: 10vh;
+  background-color: #444444;
+  text-align: center;
+  justify-content: flex-start;
+  align-items: flex-start;
+  color: white;
+  font-size: 13px;
+}
+.sidebar6 {
+  grid-column-start: 1;
+  grid-row-start: 6;
+  height: 10vh;
+  width: 10vh;
+  background-color: #444444;
+  text-align: center;
+  justify-content: flex-start;
+  align-items: flex-start;
+  color: white;
+  font-size: 13px;
+}
+.sidebar7 {
+  grid-column-start: 1;
+  grid-row-start: 7;
+  height: 10vh;
+  width: 10vh;
+  background-color: #444444;
+  text-align: center;
+  justify-content: flex-start;
+  align-items: flex-start;
+  color: white;
+  font-size: 13px;
+}
+.sidebar8 {
+  grid-column-start: 1;
+  grid-row-start: 8;
+  height: 10vh;
+  width: 10vh;
+  background-color: #444444;
+  text-align: center;
+  justify-content: flex-start;
+  align-items: flex-start;
+  color: white;
+  font-size: 13px;
+}
+.sidebar9 {
+  grid-column-start: 1;
+  grid-row-start: 9;
+  height: 10vh;
+  width: 10vh;
+  background-color: #444444;
+  text-align: center;
+  justify-content: flex-start;
+  align-items: flex-start;
+  color: white;
+  font-size: 13px;
+}
+.sidebar0 {
+  grid-column-start: 1;
+  grid-row-start: 10;
+  height: 10vh;
+  width: 10vh;
+  background-color: #444444;
+  text-align: center;
+  justify-content: flex-start;
+  align-items: flex-start;
+  color: white;
+  font-size: 13px;
+}
+#sidebar:hover {
+  color:black;
+  background-color: white;
+}
+.topbar {
+  grid-column-start: 2;
+  grid-row-start: 1;
+  color: blue;
+  font-size: 20px;
+  margin-top: 5px;
+}
+.topbar2 {
+  grid-column-start: 3;
+  grid-row-start: 1;
+  color: black;
+  font-size: 20px;
+  margin-top: 5px;
+  margin-left:3px;
+}
+.line {
+  grid-column-start: 2;
+  grid-row-start: 2;
+  color: black;
+  margin-top: -5px;
+}
+#aside {
+  color: blue;
+  font-size: 15px;
+  word-wrap: break-word;
+  width: 20vh;
+  line-height: 20px;
+  margin-left: 10px;
+}
+.aside1{
+  grid-column-start: 2;
+  grid-row-start: 3;
+}
+.aside2{
+  grid-column-start: 2;
+  grid-row-start: 4;
+}
+.aside3{
+  grid-column-start: 2;
+  grid-row-start: 5;
+}
+.aside4{
+  grid-column-start: 2;
+  grid-row-start: 6;
+}
+.aside5{
+  grid-column-start: 2;
+  grid-row-start: 7;
+}
+.title{
+  grid-column-start: 3;
+  grid-row-start: 3;
+  font-size: 30px;
+  font-weight: bold;
+}
+.line2 {
+  grid-column-start: 3;
+  grid-row-start: 4;
+  color: black;
+  margin-top: -5px;
+}
+.pointsstuff {
+  grid-column-start: 3;
+  grid-row-start: 5;
+  color: black;
+  margin-top: -5px
+}
+.line3 {
+  grid-column-start: 3;
+  grid-row-start: 6;
+  color: black;
+  margin-top: -5px;
+}
+.listheader {
+  grid-column-start: 3;
+  grid-row-start: 7;
+  color: black;
+  margin-top: -5px
+}
+.list {
+  grid-column-start: 3;
+  grid-row-start: 8;
+  color: black;
+  margin-top: -5px
+}
